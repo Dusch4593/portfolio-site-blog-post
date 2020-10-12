@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Project A",
+    "github_url": "source code link here",
+    "demo_url": "demo link here",
+    "image": "./images/rails-fitness-image-copy.jpg",
+    "description": ""
+  },
+  {
+    "title": "Project B",
+    "github_url": "source code link here",
+    "demo_url": "demo link here",
+    "image": "./images/nyt-bestseller-cli-image-copy.jpg",
+    "description": "Users can search for the NYT Bestsellers List by date, filter by category and learn more"
+  },
+  {
+    "title": "Project C",
+    "github_url": "source code link here",
+    "demo_url": "demo link here",
+    "image": "./images/weather-app-image-copy.jpg",
+    "description": ""
+  }
+]
